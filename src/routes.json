@@ -1,0 +1,20 @@
+{
+  "HOME": "/",
+  "ABOUT": "/about",
+  "CONTACTS": "/contacts",
+  "FAQ": "/faq",
+  "PRIVACY": "/privacy",
+  "LESSON": "/lesson",
+  "BLOG": "/blog",
+  "POST": "/post/:slug",
+  "BOOKS": "/book",
+  "BOOK_PAGE": "/book/:slug",
+  "COURSES": "/courses",
+  "REGISTER": "/register",
+  "LOGIN": "/login",
+  "INTRO": "/course-intro",
+  "EPISODES": "/episodes",
+  "PATH": "/course-path",
+  "ACTIVATION": "/activation",
+  "PATH_LEVEL": "/course-path-level"
+}
